@@ -1,4 +1,4 @@
-# Soracom Notebook
+# Soracom notebooks
 
 A collection of Jupyter notebooks to manage Soracom operator.
 
