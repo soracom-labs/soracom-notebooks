@@ -15,7 +15,9 @@ Then, url for notebook will be shown on your console.
 ## Notebooks provided
 
 - **SORACOM-Operator-Essential-Dashboard**: 
-  - Essential dashboard for Soracom Operator. It shows
+  - Essential dashboard for Soracom Operator, 
+  ![Example](./asset/img/soracom-report.png)
+  - It shows
     - \# of SIMs by status
     - \# of SIMs by spped class
     - \# of SIMs by online status
