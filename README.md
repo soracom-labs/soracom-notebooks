@@ -1,6 +1,6 @@
 # Soracom notebooks
 
-A collection of Jupyter notebooks to manage Soracom operator.
+A collection of notebooks to manage Soracom operator, those can be run on something like Jupyter Notebook.
 
 ## How to use
 
