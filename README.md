@@ -7,6 +7,8 @@ A collection of notebooks to manage Soracom operator, those can be run on someth
 ### Docker
 
 ```bash
+git clone https://github.com/soracom-labs/soracom-notebooks.git
+cd soracom-notebooks
 docker run --rm -v "$PWD":/home/jovyan/work -p 8888:8888 -e ACCESS_KEY_ID=${YOUR_SORACOM_ACCESS_KEY_ID} -e ACCESS_KEY=${YOUR_SORACOM_ACCESS_KEY} jupyter/pyspark-notebook
 ```
 
