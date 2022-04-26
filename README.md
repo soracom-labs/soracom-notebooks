@@ -1,4 +1,6 @@
-# Soracom notebooks
+# DEPRECATED: Soracom notebooks
+
+**This repository is not maintained. Please use [notebooks in openapi-client-python](https://github.com/soracom-labs/openapi-client-python) instead.**
 
 A collection of notebooks to manage Soracom operator, those can be run on something like Jupyter Notebook.
 
