@@ -1,4 +1,5 @@
 # DEPRECATED: Soracom notebooks
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 **This repository is not maintained. Please use [notebooks in openapi-client-python](https://github.com/soracom-labs/openapi-client-python) instead.**
 
